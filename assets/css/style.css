@@ -1,0 +1,60 @@
+body{
+	background-image: url('https://media.istockphoto.com/photos/abstract-low-poly-background-picture-id546008844?k=6&m=546008844&s=612x612&w=0&h=RWDGhGSOmdBCjEnGyCfOzbbdfydltKKY4TDppHh5_Zk=');
+	background-size: cover;
+	border: 4px solid #060c3d;
+	margin: 10px 10px 10px 10px;
+}
+button, 
+form {
+	margin: 5px;
+}
+
+button {color: blue}
+
+.jumbotron {
+	font-weight: bold;
+	background-color: #060c3d;
+	color: #cdbfe3;
+	text-align: center;
+	
+
+}
+
+.container .jumbotron, .container-fluid .jumbotron {
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+
+button, html input[type=button], input[type=reset], input[type=submit] {
+	background-color: #3B5998;
+	border: 4px solid white;
+	color: white;
+	padding: 8px;
+	text-shadow: 1px;
+}
+
+input{
+	background-color: #e6e6d9;
+	border: 4px solid #060c3d;
+}
+
+
+/*updates gif photo to show left to right versus just vertical */
+.item {
+	padding: 10px;
+	display: inline-block;
+}
+
+p{
+	background-color: #706186;
+	color: #cdbfe3;	
+	padding: 0px;
+	text-align: center;
+}
+footer{
+	padding: 15px;
+	background-color: #060c3d;
+	text-align: center;
+	color: #cdbfe3;
+}
