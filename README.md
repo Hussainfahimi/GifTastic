@@ -1,3 +1,15 @@
 # GifTastic
+<h6>Paly Online: https://hussainfahimi.github.io/GifTastic/ </h6>
 
-A simple game wich made using HTML5, CSS3 and javascript
+In this project, i used GIPHY API to make a dynamic web page that populates with gifs of our choice.
+
+<h3> Instructions: </h3>
+Enter a term into the search box and click the submit button. You will see your term as an active button above the search box. Click the button and all related GIPHY appears on the screen.
+
+# Tools/Language Used:
+-- HTML5
+--CSS3
+--Bootstrap
+--JavaScript
+--jQuery
+--giphy API
