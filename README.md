@@ -7,9 +7,9 @@ In this project, i used GIPHY API to make a dynamic web page that populates with
 Enter a term into the search box and click the submit button. You will see your term as an active button above the search box. Click the button and all related GIPHY appears on the screen.
 
 # Tools/Language Used:
--- HTML5
---CSS3
---Bootstrap
---JavaScript
---jQuery
---giphy API
+-- HTML5<br>
+--CSS3<br>
+--Bootstrap<br>
+--JavaScript<br>
+--jQuery<br>
+--giphy API<br>
